@@ -6,7 +6,7 @@
 }
 
 body {
-    front-family: ' Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: ' Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f6f9; /* Abu-abu lembut yang nyaman di mata */
     color: #333333;           /* Teks abu gelap, bukan hitam pekat */
     line-height: 1.6;
@@ -102,7 +102,7 @@ body {
     text-align: center;
     padding: 20px;
     margin-top: 40x;
-    front-size: 14px;
+    font-size: 14px;
 }
 
 .footer-bawah a {
